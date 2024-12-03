@@ -21,7 +21,7 @@
 4. Run the application: `python app.py`
 
 ## Screenshots
-[Attach images here]
+![alt text](https://github.com/JacobLender/Spotify_API_Dash/)
 
 ## Live Demo
 [Insert link here]

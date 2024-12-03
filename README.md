@@ -16,9 +16,9 @@
 
 ## Setup Instructions
 1. Clone the repository.
-2. Install dependencies: `pip install -r requirements.txt`
-3. Set up Spotify API credentials [link to Spotify Developer docs].
-4. Run the application: `python app.py`
+2. Install dependencies: Spotipy, SpotifyOAuth, Pandas
+3. Set up Spotify API credentials [https://developer.spotify.com/documentation/web-api]
+4. Run the application: `python SpotifyAPI.py`
 
 ## Screenshots
 ![alt text](https://github.com/JacobLender/Spotify_API_Dash/blob/main/Screenshot%202024-12-03%20153027.png)

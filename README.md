@@ -21,7 +21,7 @@
 4. Run the application: `python app.py`
 
 ## Screenshots
-![alt text](https://github.com/JacobLender/Spotify_API_Dash/Screenshot 2024-12-03 153027.png)
+![alt text](https://github.com/JacobLender/Spotify_API_Dash/blob/main/Screenshot%202024-12-03%20153027.png)
 
 ## Live Demo
 [Insert link here]

@@ -15,10 +15,13 @@ I created a dashboard powered by the Spotify API to visualize user listening hab
 - Microsoft Power BI
 
 ## Setup Instructions
-1. Clone the repository.
+1. Clone the repository
 2. Install dependencies: Spotipy, SpotifyOAuth, Pandas
 3. Set up Spotify API credentials [https://developer.spotify.com/documentation/web-api]
 4. Run the application: `python SpotifyAPI.py`
+5. Open Power BI File
+6. In PowerBI, redirect data tables to data created from SpotifyAPI.py
+7. Enjoy!
 
 ## Screenshots
 ![alt text](https://github.com/JacobLender/Spotify_API_Dash/blob/main/Screenshot%202024-12-03%20153027.png)

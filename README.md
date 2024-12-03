@@ -22,6 +22,9 @@
 
 ## Screenshots
 ![alt text](https://github.com/JacobLender/Spotify_API_Dash/blob/main/Screenshot%202024-12-03%20153027.png)
+![alt text](https://github.com/JacobLender/Spotify_API_Dash/blob/main/Screenshot%202024-12-03%20153156.png)
+![alt text](https://github.com/JacobLender/Spotify_API_Dash/blob/main/Screenshot%202024-12-03%20153249.png)
+![alt text](https://github.com/JacobLender/Spotify_API_Dash/blob/main/Screenshot%202024-12-03%20153353.png)
 
 ## Live Demo
 Link to Power BI Dashboard: [https://app.powerbi.com/groups/7f129eea-9d46-4586-8744-980611a84e90/reports/38777459-db2e-40e7-9f56-3a05fbb0e5de/0b64ec78be38e8c3fde9?experience=power-bi]

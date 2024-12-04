@@ -14,13 +14,19 @@ I created a dashboard powered by the Spotify API to visualize user listening hab
 
 ## Setup Instructions
 1. Clone the repository
-2. Download artists_dim-2.csv, top_artists_Fact-3.csv, top_tracks_Fact-3.csv ( If using Sample Data )
-3. Install dependencies: Spotipy, SpotifyOAuth, Pandas ( If Pulling Own Data )
-4. Set up Spotify API credentials [https://developer.spotify.com/documentation/web-api] ( If Pulling Own Data )
-5. Run the application: `python SpotifyAPI_Portfolio.py` ( If Pulling Own Data )
-6. Open Power BI File, Spotify.pbix
-7. In PowerBI, redirect data tables to stored data from SpotifyAPI_Portfolio.py or downloading sample data.
-8. Enjoy!
+2. Decide between 'Sample Data' or 'Pulling Personal Data' using the Spotify API.
+3. ( If using Sample Data ) Download artists_dim-2.csv, top_artists_Fact-3.csv, top_tracks_Fact-3.csv to local machine 
+4. ( If Pulling Personal Data ) Install dependencies: Spotipy, SpotifyOAuth, Pandas in coding environment
+5. ( If Pulling Personal Data ) Set up Spotify API credentials [https://developer.spotify.com/documentation/web-api]
+6. ( If Pulling Personal Data ) Use your personal credentials in the Python code
+7. ( If Pulling Personal Data ) Run the application: `python SpotifyAPI_Portfolio.py` 
+8. Once data is obtained, ppen Power BI file, Spotify.pbix
+9. In PowerBI PowerQuery, redirect data path to your data source. Close & Apply.
+10. Enjoy! Have any questions or want to chat about this project, feel free to reach out!
+
+Contact: 
+https://www.jakelender.com
+Jakelender@gmail.com
 
 ## Screenshots
 ![alt text](https://github.com/JacobLender/Spotify_API_Dash/blob/main/Screenshot%202024-12-03%20153027.png)
